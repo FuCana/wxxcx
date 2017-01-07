@@ -1,0 +1,33 @@
+
+<view class="container">
+    <text class="user-name">WELCOME　TO　5Ke</text>
+    <text class="user-myke">5Ke·我的课</text>
+<view class="input_sj">
+    <view class="ip_name">
+        <image src="/images/01sy_03.png"></image>
+        <text>姓名</text>
+        <input   />
+    </view>
+    <view class="ip_name">
+        <image src="/images/01sy_06.png"></image>
+        <text>学校</text>
+        <input   />
+    </view>
+     <view class="ip_name">
+        <image src="/images/01sy_08.png"></image>
+        <text>手机号</text>
+        <input class="last_ip"   />
+        <button class="button_fs" type="default">发送验证码</button>
+    </view>
+     <view class="ip_name">
+        <text>输入验证码</text>
+        <input class="last_ip2"   />
+    </view>
+</view>
+<view class="dl">
+    <image class="bjt" src="/images/bj_03.jpg"></image>
+    <button class="denglu">确定登陆</button>
+    <button class="kankan">先去看看</button>
+</view>
+    
+</view>

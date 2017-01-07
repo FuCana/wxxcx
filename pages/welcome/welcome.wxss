@@ -1,0 +1,95 @@
+page{
+    height: 100%;
+    background-color: #fff;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:#fff; 
+}
+
+
+.user-name{
+    font-size: 51rpx;
+    font-weight: bold;
+    line-height: 73rpx;
+    margin-top: 88rpx;
+    color: #4d9df7;
+}
+.user-myke{
+    font-size: 40rpx;
+    color: #4d9df7;
+    line-height: 64rpx;
+    margin-bottom: 90rpx;
+
+}
+
+.container input{
+    float: right;
+    
+}
+.input_sj{
+    width:528rpx;
+}
+
+.ip_name{
+    font-size: 30rpx;
+    float:left;
+    border-bottom: 1rpx #f5f5f5 solid;
+    color: #4d9df7;
+    padding-top: 30rpx;
+    padding-bottom: 30rpx;
+    position: relative;
+}
+.ip_name image{
+    width:40rpx;
+    height:30rpx;
+    margin-right: 10rpx;
+}
+.ip_name .last_ip{
+    width: 343rpx;
+}
+.ip_name .last_ip2{
+    width: 309rpx;
+}
+
+.button_fs{
+    position: absolute;
+    font-size: 17rpx;
+    right: 0;
+    width: 148rpx;
+    height: 45rpx;
+    float: right;
+    border-radius: 25rpx;
+    border: 1px #4d9df7 solid;
+    text-align: center;
+    line-height: 45rpx;
+    top: 29rpx;
+    color: #4d9df7;
+}
+.dl .bjt{
+    width: 418rpx;
+    height: 180rpx;
+    margin-left: 60rpx;
+    display: block;
+    margin-top: 50rpx;
+}
+.dl .denglu{
+    width:555rpx;
+    height: 80rpx;
+    background: #4d9df7;
+    color: #fff;
+    border-radius: 50rpx;
+    margin-bottom:35rpx; 
+    line-height: 80rpx;
+}
+
+.dl .kankan{
+    width:555rpx;
+    height: 80rpx;
+    line-height: 80rpx;
+    color: #b7b7b7;
+    border-radius: 50rpx;
+    border: 1rpx #eee solid;
+}

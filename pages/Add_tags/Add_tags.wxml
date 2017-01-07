@@ -1,0 +1,96 @@
+<view class="body_tj">
+    <view class="head_tj">
+         <text>
+        {{hb1}}
+         </text>
+         <a class="tiaoguo" plain type="default">跳过</a>
+    </view>
+    <view class="chin">
+        <text class="mbgj">目标国家或地区</text>
+    <view class="sygj">
+        <view class="guojia">
+            <image class="guojia_img" src="/images/guojia_03.png"></image>
+            <text class="guojia_name">美国</text>
+        </view>
+        <view class="guojia">
+            <image class="guojia_img" src="/images/guojia_05.png"></image>
+            <text class="guojia_name">英国</text>
+        </view>
+        <view class="guojia">
+            <image class="guojia_img" src="/images/guojia_07.png"></image>
+            <text class="guojia_name">加拿大</text>
+        </view>
+        <view class="guojia">
+            <image class="guojia_img" src="/images/guojia_12.png"></image>
+            <text class="guojia_name">香港</text>
+        </view>
+        <view class="guojia">
+            <image class="guojia_img" src="/images/guojia_13.png"></image>
+            <text class="guojia_name">德国</text>
+        </view>
+        <view class="guojia">
+            <image class="guojia_img" src="/images/guojia_14.png"></image>
+            <text class="guojia_name adly" id="">澳大利亚</text>
+        </view>
+        <view class="guojia">
+            <image class="guojia_img" src="/images/guojia_18.png"></image>
+            <text class="guojia_name">法国</text>
+        </view>
+        <view class="guojia">
+            <image class="guojia_img" src="/images/guojia_19.jpg"></image>
+            <text class="guojia_name">其他</text>
+        </view>
+        
+
+    </view>
+    </view>
+    <view class="chin chin2">
+        <text class="mbgj">目标专业</text>
+    <view class="sygj">
+        <view class="guojia">
+            <image class="guojia_img" src="/images/zy_03.jpg"></image>
+            <text class="guojia_name">文科</text>
+        </view>
+        <view class="guojia">
+            <image class="guojia_img" src="/images/zy_05.jpg"></image>
+            <text class="guojia_name">商科</text>
+        </view>
+        <view class="guojia">
+            <image class="guojia_img" src="/images/zy_07.jpg"></image>
+            <text class="guojia_name">理科</text>
+        </view>
+        <view class="guojia">
+            <image class="guojia_img" src="/images/zy_12.jpg"></image>
+            <text class="guojia_name">工科</text>
+        </view>
+        <view class="guojia">
+            <image class="guojia_img" src="/images/zy_13.jpg"></image>
+            <text class="guojia_name">艺术</text>
+        </view>
+        <view class="guojia">
+            <image class="guojia_img" src="/images/guojia_19.jpg"></image>
+            <text class="guojia_name adly" id="">其他</text>
+        </view>
+
+    </view>
+    </view>
+     <view class="chin chin3">
+        <text class="mbgj">申请学位</text>
+    <view class="sygj">
+        <view class="guojia">
+            <image class="guojia_img" src="/images/zy_03.jpg"></image>
+            <text class="guojia_name">本科</text>
+        </view>
+        <view class="guojia">
+            <image class="guojia_img" src="/images/zy_05.jpg"></image>
+            <text class="guojia_name">硕士</text>
+        </view>
+        <view class="guojia">
+            <image class="guojia_img" src="/images/zy_07.jpg"></image>
+            <text class="guojia_name">博士</text>
+        </view>
+    </view>
+    </view>
+    <button class="last_btn">确定</button>
+    
+</view>
